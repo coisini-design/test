@@ -16,7 +16,3 @@ python3 hello.py
 Hello from coisini!
 ```
 
-## 本机配置
-
-- 提交身份：`coisini <oisinic8@gmail.com>`
-- 远程认证：SSH（`~/.ssh/id_ed25519`）
